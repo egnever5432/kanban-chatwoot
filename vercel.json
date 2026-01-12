@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "env": {
+    "CHATWOOT_API_URL": "@chatwoot-api-url",
+    "CHATWOOT_ACCOUNT_ID": "@chatwoot-account-id",
+    "CHATWOOT_API_TOKEN": "@chatwoot-api-token"
+  },
+  "build": {
+    "env": {
+      "CHATWOOT_API_URL": "@chatwoot-api-url",
+      "CHATWOOT_ACCOUNT_ID": "@chatwoot-account-id",
+      "CHATWOOT_API_TOKEN": "@chatwoot-api-token"
+    }
+  }
+}
